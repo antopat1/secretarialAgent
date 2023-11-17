@@ -1,0 +1,114 @@
+.. image:: ./modelli/stemma.png
+	:width: 40 pt
+	:height: 40 pt
+	:align: center
+
+.. container:: centrato
+
+	Ministero dell’Istruzione e del Merito
+
+	Istituto  Comprensivo di Calusco d'Adda, Piazza San Fedele, 258 - 24033 Calusco d'Adda (BG)
+
+	Tel. 035 791286  Fax 035 4380675
+
+	email uffici bgic833004@istruzione.it  email pec  bgic833004@pec.istruzione.it
+
+	sito web : https://www.scuolacalusco.edu.it/ - codice fiscale  82004810162
+
+|
+
+
+.. container:: all_sx
+
+	Num. di registro: {num}/C/{anno_scolastico}	
+
+
+.. container:: all_dx	
+
+	Calusco d'Adda, {data_consiglio}
+
+.. container:: all_sx
+
+	|
+
+	Ai genitori di [*completare con nome e cognome*]
+		
+	Classe {classe}
+
+	{scuola}
+
+
+.. container:: titolo
+
+	|
+
+	Oggetto: Comunicazione sulla situazione dello studente/della studentessa [*completare con nome e cognome*]
+
+	|
+
+.. container:: centrato
+
+	Il Consiglio di Classe
+
+	|
+
+.. container:: giustificato
+
+	riunitosi in data {data_consiglio} analizzando l’andamento didattico-disciplinare della classe, ha rilevato che l’alunno/l’alunna [*completare con nome e cognome*] si impegna in modo  poco adeguato (non adeguato/insufficiente/scarso/selettivo/discontinuo/)  nelle attività didattiche (a scuola e/o nei compiti e nello studio assegnati) conseguendo risultati poco soddisfacenti (o con rendimento insufficiente in diverse discipline – elencare).
+
+	|
+	|
+
+	(* se del caso *) Si segnala inoltre un comportamento poco corretto e non sempre rispettoso delle regole della vita scolastica.
+
+ 	|
+
+	(* se del caso *) Si evidenzia un numero elevato di ore di assenza. Ciò pregiudica il regolare svolgimento del percorso didattico con conseguente rendimento poco/non adeguato.
+ 	
+ 	|
+	
+	(* se del caso *) A volte vengono segnalati altri comportamenti: scarsa attenzione, l’alunno non porta il materiale necessario allo svolgimento delle attività, comportamenti poco rispettosi nei confronti dei compagni, ecc.
+
+	|
+
+.. container:: giustificato
+
+	*Il Coordinatore e i docenti del Consiglio di Classe sono a disposizione per un colloquio.*
+
+.. container:: centrato
+	
+	|
+
+	Per il Dirigente Scolastico
+
+	|
+
+	Il Coordinatore di classe
+
+
+	{titolo} {nome} {cognome}
+
+	|
+
+
+.. container:: all_sx
+
+	**Da restituire firmato al Coordinatore:**
+
+	|
+	|
+
+	Il presente provvedimento è stato notificato ai genitori dello studente ______________ in data __________
+	
+	|
+
+
+	Firma per avvenuta ricezione: ________________________
+	
+	|
+	
+
+
+	Mod. Com.ni Famiglia/rev.05/08/2023
+
+
